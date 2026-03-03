@@ -111,11 +111,11 @@
 
 ### 📈 Estadísticas
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pylonet&theme=gruvbox&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits" alt="Gráfico de actividad de commits"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xR00&theme=gruvbox&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits" alt="Gráfico de actividad de commits"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pylonet&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=0xR00&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ### 📱 Contacta conmigo
